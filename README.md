@@ -1,6 +1,4 @@
--- ==============================================================================
--- 🎈⭐🎪-Looey Circus Gui (Otimizado & Seguro)-🎪⭐🎈
--- ==============================================================================
+
 local Rayfield = nil
 local success, err = pcall(function()
     Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
